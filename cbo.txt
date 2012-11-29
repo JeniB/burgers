@@ -4,4 +4,4 @@ oignons
 salade
 cheese
 sauce
-ingrédients magique
+ingrédient magique
