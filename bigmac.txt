@@ -3,5 +3,5 @@ salade
 tomates
 oignons
 cornichons
-ketchup
+mayonnaise
 moutarde
